@@ -1,0 +1,2 @@
+URL of labwork for tableau dashboard
+https://public.tableau.com/app/profile/paul.desgrippes6125/viz/dashboards_with_tableau_tbwx/LabDashboard?publish=yes
